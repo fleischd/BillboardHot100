@@ -1,2 +1,3 @@
 # BillboardHot100
-Extracts Billboard Hot100 lists from billboard.com
+
+R Script to extract Billboard Hot100 lists from billboard.com
